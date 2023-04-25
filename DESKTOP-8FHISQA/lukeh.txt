@@ -1,7 +1,0 @@
-Microsoft Windows [Version 10.0.22000.1817]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\lukeh\Desktop\Roblox FPS Booster\Roblox FPS Booster\bin\Debug>
-C:\Users\lukeh\Desktop\Roblox FPS Booster\Roblox FPS Booster\bin\Debug>C:\Users\lukeh\Desktop\Roblox FPS Booster\Roblox FPS Booster\bin\Debug>
-C:\Users\lukeh\Desktop\Roblox FPS Booster\Roblox FPS Booster\bin\Debug>
-C:\Users\lukeh\Desktop\Roblox FPS Booster\Roblox FPS Booster\bin\Debug>
